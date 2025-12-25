@@ -1,5 +1,3 @@
-<img width="1644" height="934" alt="make-ai-workflow png" src="https://github.com/user-attachments/assets/8cff3d6d-9eb3-4423-b6c8-27c663a9a3c4" /># AI Workflow & Automation
-
 ## Overview
 This repository documents my learning and implementation of basic AI workflows using Make.com.
 ## Workflow Snapshot
